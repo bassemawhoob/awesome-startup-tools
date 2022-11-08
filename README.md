@@ -53,11 +53,11 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 
 ## Payments
 - [Stripe](https://stripe.com) - Global payment provider
-- [Square](https://squareup.com) - Another worldwide payment provider
+- [Square](https://squareup.com) - Worldwide payment provider
 - [Bolt](https://bolt.com) - One click checkout
 - [Paymob](https://paymob.com) - Egyptian payment provider
 - [Paytabs](https://site.paytabs.com) - Egyptian payment provider
-
+  
 ## Documentation
 - ★ [Docusaurus](https://docusaurus.io/) - Open-source documentation websites
 - ★ [Readme](https://readme.com) - API Documentation
@@ -71,8 +71,8 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 
 ## Mailing, Blogging and Newsletters
 - ★ [MailChimp](https://mailchimp.com)- Transactional & marketing emails
-- ★ [Mailjet](https://www.mailjet.com/)- Alternatice to mailjet
 - ★ [Mandrillapp](https://mandrillapp.com) - Mailchimp addon for transactional emails
+- [Mailjet](https://www.mailjet.com/)- Alternative to MailChimp
 - [Buttondown](https://buttondown.email) - Minimalist newsletter
 - [Hashnode](https://hashnode.dev) - Engineering blogging
 - [Substack](https://substack.com) - Advanced subscription newsletters with payment, analytics, and design infrastructure
@@ -81,12 +81,6 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Klavyio](https://www.klaviyo.com) - Marketing automation
 - [ConvertKit](https://convertkit.com) - Email marketing
 - [Mailerlite](https://www.mailerlite.com) - Various digital marketing tools (automations, marketing & websites)
-
-## SMS & Phone Calls
-- [Twilio](twilio.com/) Sending SMS to any number worldwide
-
-## Sending Faxes
-- [Phaxio](https://www.phaxio.com/) Sending faxes to any number worldwide
 
 ## CRM and Support
 - ★ [Odoo](https://odoo.com) - Open-source ERP
@@ -145,6 +139,8 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [PopupSmart](https://popupsmart.com) - Popup builder
 - [Landbot](https://landbot.io) - Landing page chatbot
 - [Discourse](https://discourse.org) - Open-source discussion software
+- [Twilio](https://twilio.com) - Send SMS to any number worldwide
+- [Phaxio](https://www.phaxio.com) - Send faxes to any number worldwide
 
 ## User Attribution
 - [Branch](https://branch.io) 
@@ -195,7 +191,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Crashlytics](https://firebase.google.com/products/crashlytics) - App crash analytics
 - [UptimeRobot](https://uptimerobot.com) - Uptime monitoring service.
 - [Datadog](https://datadog.com) - Cloud monitoring
-- [Posthog](https://posthog.com/) - Analytics & Conversion Funnels & Feature flags
+- [Posthog](https://posthog.com/) - Analytics, conversion funnels & feature flags
 
 ## Misc.
 - ★ [Wisestamp](https://www.wisestamp.com) - Generate & manage professional email signatures
