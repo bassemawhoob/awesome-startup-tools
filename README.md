@@ -45,6 +45,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Zapier](https://zapier.com) - Integrate web applications and automate workflows
 - [Make](https://www.make.com/) - Tasks and workflows to different apps and systems, build and automate anything.
 - [IFTTT](https://ifttt.com) - Alternative to Zapier with more focus on individuals
+- [N8N](https://github.com/n8n-io/n8n) - Open-source workflow automation
 
 ## Backend
 - [Airtable](https://www.airtable.com) - Cloud, visual & collaborative database
