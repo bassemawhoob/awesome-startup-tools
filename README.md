@@ -39,9 +39,11 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Spyfu](https://www.spyfu.com) - Google keyword analyzer
 - [Formspree](https://formspree.io) - Contact forms
 - [Strapi](https://strapi.com) - Open-source headless CMS
+- [Contentful](https://www.contentful.com/) - Orchestrate content across brands
 
 ## Automation
 - [Zapier](https://zapier.com) - Integrate web applications and automate workflows
+- [make](https://www.make.com/) - Tasks and workflows to different apps and systems, build and automate anything.
 - [IFTTT](https://ifttt.com) - Alternative to Zapier with more focus on individuals
 
 ## Backend
@@ -50,6 +52,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 
 ## Payments
 - [Stripe](https://stripe.com) - Global payment provider
+- [Square](https://squareup.com) - Another worldwide payment provider
 - [Bolt](https://bolt.com) - One click checkout
 - [Paymob](https://paymob.com) - Egyptian payment provider
 - [Paytabs](https://site.paytabs.com) - Egyptian payment provider
@@ -57,6 +60,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 ## Documentation
 - ★ [Docusaurus](https://docusaurus.io/) - Open-source documentation websites
 - ★ [Readme](https://readme.com) - API Documentation
+- ★ [Swagger](https://swagger.io/solutions/api-documentation/) - API Documentation & versions
 - [Gitbook](https://gitbook.com) - Technical documentation with public webpages
 - [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide
 - [Code](https://coda.io)
@@ -66,6 +70,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 
 ## Mailing, Blogging and Newsletters
 - ★ [MailChimp](https://mailchimp.com)- Transactional & marketing emails
+- ★ [Mailjet](https://www.mailjet.com/)- Alternatice to mailjet
 - ★ [Mandrillapp](https://mandrillapp.com) - Mailchimp addon for transactional emails
 - [Buttondown](https://buttondown.email) - Minimalist newsletter
 - [Hashnode](https://hashnode.dev) - Engineering blogging
@@ -75,6 +80,12 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Klavyio](https://www.klaviyo.com) - Marketing automation
 - [ConvertKit](https://convertkit.com) - Email marketing
 - [Mailerlite](https://www.mailerlite.com) - Various digital marketing tools (automations, marketing & websites)
+
+## SMS & Phone Calls
+- [Twilio](twilio.com/) Sending SMS to any number worldwide
+
+## Sending Faxes
+- [Phaxio](https://www.phaxio.com/) Sending faxes to any number worldwide
 
 ## CRM and Support
 - ★ [Odoo](https://odoo.com) - Open-source ERP
@@ -89,6 +100,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Simple Analytics](https://simpleanalytics.com) - Google analytics alternative
 - ★ [Amplitude](https://amplitude.com) - Product analytics
 - ★ [Mixpanel](https://mixpanel.com) - Product analytics
+- ★ [Cube](https://cube.dev) - Headless BI for building data apps
 - [Google Analytics](https://analytics.google.com) - Web analytics
 - [Heap](https://heap.io) - User behavior
 - [ChartMogul](https://chartmogul.com) - SaaS subscription analytics platform
@@ -119,6 +131,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Sleekplan](https://sleekplan.com) -  User feedback, roadmap & changelog
 - [Qualtrics](https://qualtrics.com) - Building user surveys
 - [Mopinion](https://mopinion.com) - Conversational feedback
+
 
 ## User Engagement
 - ★ [Braze](https://braze.com) 
@@ -160,6 +173,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [OysterHR](https://www.oysterhr.com) - Hire & pay globally distributed teams
 - [Calendly](https://calendly.com) - Book calendar appointments
 - [Miro](https://miro.com) - Visual collaboration tool
+- [FigJam](https://www.figma.com/figjam/) - Online white board
 - [Loom](https://loom.com) - Async video messaging
 - [Markup](https://markup.io) - Visual feedback & collaboration tool
 
@@ -180,6 +194,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Crashlytics](https://firebase.google.com/products/crashlytics) - App crash analytics
 - [UptimeRobot](https://uptimerobot.com) - Uptime monitoring service.
 - [Datadog](https://datadog.com) - Cloud monitoring
+- [Posthog](https://posthog.com/) - Analytics & Conversion Funnels & Feature flags
 
 ## Misc.
 - ★ [Wisestamp](https://www.wisestamp.com) - Generate & manage professional email signatures
