@@ -49,6 +49,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 ## Backend
 - [Airtable](https://www.airtable.com) - Cloud, visual & collaborative database
 - [Firebase](https://firebase.google.com) - Backend as a service
+- [Supabase](https://supabase.com) - Open-source Firebase alternative
 
 ## Payments
 - [Stripe](https://stripe.com) - Global payment provider
