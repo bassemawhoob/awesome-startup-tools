@@ -165,7 +165,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Figma UI Kit](https://untitledui.gumroad.com/l/untitled-ui) - A nice Figma UI kit
 
 ## Internal Team Management
-- ★ [Trakstart](https://www.trakstar.com/) - Employee performance feedback software
+- ★ [Trakstar](https://www.trakstar.com/) - Employee performance feedback software
 - [Slack](https://slack.com) - Internal communication
 - [Clickup](https://clickup.com) - Product management & tracking tool
 - [Breezy](https://breezy.hr) - Advertise your open positions on 50+ top job sites, with a single click.
