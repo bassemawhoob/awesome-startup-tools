@@ -39,6 +39,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Spyfu](https://www.spyfu.com) - Google keyword analyzer
 - [Formspree](https://formspree.io) - Contact forms
 - [Strapi](https://strapi.com) - Open-source headless CMS
+- [Prismic](https://prismic.io/) - Open-source headless CMS
 - [Contentful](https://www.contentful.com/) - Orchestrate content across brands
 
 ## Automation
