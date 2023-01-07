@@ -131,12 +131,13 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 
 
 ## User Engagement
-- ★ [Braze](https://braze.com) 
+- ★ [Braze](https://braze.com)
 - [Adjust](https://adjust.com)
 - [Moengage](https://www.moengage.com)
 - [Iterable](https://iterable.com)
 - [OneSignal](https://onesignal.com)
 - [Customer](https://customer.io)
+- [InMoment](https://inmoment.com/) - Ask timely "Rate the product" questions to your customers
 - [Optinmoster](https://optinmonster.com) - Popup lead generation
 - [PopupSmart](https://popupsmart.com) - Popup builder
 - [Landbot](https://landbot.io) - Landing page chatbot
