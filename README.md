@@ -6,6 +6,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 
 ## Table of Contents
 - [Website and Hosting](#website-and-hosting)
+- [AI](#ai)
 - [Content and SEO](#content-and-seo)
 - [Automation](#automation)
 - [Backend](#backend)
@@ -31,6 +32,9 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Kickofflabs](https://kickofflabs.com/) - Building waitlists and pre-launch websites
 - [Framer](https://framer.com) - Webflow alternative
 - [GoDaddy](https://godaddy.com) - Domains purchasing & management
+
+## AI
+- ★ [Rows](https://rows.com) - AI-powered sheets alternative
 
 ## Content and SEO
 - ★ [Netlify CMS](https://www.netlifycms.org) - Open-source content management for your Git workflow
@@ -98,8 +102,9 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Segment](https://segment.io) - Events & data collection
 - ★ [Simple Analytics](https://simpleanalytics.com) - Google analytics alternative
 - ★ [Amplitude](https://amplitude.com) - Product analytics
-- ★ [Mixpanel](https://mixpanel.com) - Product analytics
+- ★ [PostHog](https://posthog.com) - Product analytics
 - ★ [Cube](https://cube.dev) - Headless BI for building data apps
+- [Mixpanel](https://mixpanel.com) - Product analytics
 - [Google Analytics](https://analytics.google.com) - Web analytics
 - [Heap](https://heap.io) - User behavior
 - [ChartMogul](https://chartmogul.com) - SaaS subscription analytics platform
