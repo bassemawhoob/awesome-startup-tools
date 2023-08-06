@@ -114,6 +114,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Ideals](https://www.idealsvdr.com) - Virtual data room
 - [Posthog](https://posthog.com) - Product analytics
 - [Airbyte](https://airbyte.com) - Open-source ETL
+- [June](https://www.june.so/) - B2B Analytics with focus on companies
 
 ## Data Visualization
 - ★ [Metabase](https://metabase.com)
