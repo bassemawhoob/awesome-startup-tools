@@ -102,7 +102,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Segment](https://segment.io) - Events & data collection
 - ★ [Simple Analytics](https://simpleanalytics.com) - Google analytics alternative
 - ★ [Amplitude](https://amplitude.com) - Product analytics
-- ★ [PostHog](https://posthog.com) - Product analytics
+- ★ [PostHog](https://posthog.com) - Product analytics, conversion funnels & feature flags
 - ★ [Cube](https://cube.dev) - Headless BI for building data apps
 - [Mixpanel](https://mixpanel.com) - Product analytics
 - [Google Analytics](https://analytics.google.com) - Web analytics
@@ -112,7 +112,6 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Hotjar](https://hotjar.com) - Website heatmaps & behavior analytics tools
 - [Pirsch](https://pirsch.io) - Google analytics alternative with a focus on privacy
 - [Ideals](https://www.idealsvdr.com) - Virtual data room
-- [Posthog](https://posthog.com) - Product analytics
 - [Airbyte](https://airbyte.com) - Open-source ETL
 - [June](https://www.june.so/) - B2B Analytics with focus on companies
 
@@ -203,7 +202,6 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Crashlytics](https://firebase.google.com/products/crashlytics) - App crash analytics
 - [UptimeRobot](https://uptimerobot.com) - Uptime monitoring service.
 - [Datadog](https://datadog.com) - Cloud monitoring
-- [Posthog](https://posthog.com/) - Analytics, conversion funnels & feature flags
 
 ## Misc.
 - ★ [Wisestamp](https://www.wisestamp.com) - Generate & manage professional email signatures
@@ -211,7 +209,6 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Brightback](https://brightback.com) - Customer retention automation software for SaaS and subscription businesses. Stop SaaS churn and retain customers
 - [Navattic](https://www.navattic.com/) - Interactive product demos
 - [ProductHunt](https://producthunt.com) - Share your new product with the world
-- [AddThis](https://www.addthis.com) - Social Sharing buttons
 - [Teachable](https://teachable.com) - For managing online courses
 - [Linktree](https://linktree.com) - Social media reference landing page
 - [Znaplink](https://www.znaplink.com) - Linktree alternative
