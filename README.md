@@ -177,6 +177,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Trakstar](https://www.trakstar.com/) - Employee performance feedback software
 - [Slack](https://slack.com) - Internal communication
 - [Clickup](https://clickup.com) - Product management & tracking tool
+- [Linear](https://linear.app/) - Another product management & tracking tool
 - [Breezy](https://breezy.hr) - Advertise your open positions on 50+ top job sites, with a single click.
 - [OysterHR](https://www.oysterhr.com) - Hire & pay globally distributed teams
 - [Calendly](https://calendly.com) - Book calendar appointments
