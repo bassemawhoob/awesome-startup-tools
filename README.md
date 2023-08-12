@@ -80,12 +80,12 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 ## Mailing, Blogging and Newsletters
 - ★ [MailChimp](https://mailchimp.com)- Transactional & marketing emails
 - ★ [Mandrillapp](https://mandrillapp.com) - Mailchimp addon for transactional emails
+- ★ [Postmark](https://postmarkapp.com/) - Transactional & marketing emails
 - [Mailjet](https://www.mailjet.com/)- Alternative to MailChimp
 - [Buttondown](https://buttondown.email) - Minimalist newsletter
 - [Hashnode](https://hashnode.dev) - Engineering blogging
 - [Substack](https://substack.com) - Advanced subscription newsletters with payment, analytics, and design infrastructure
 - [Revue](https://www.getrevue.co) - Similar to Substack
-- [SendGrid](https://sendgrid.com) - Transactional & marketing emails
 - [Klavyio](https://www.klaviyo.com) - Marketing automation
 - [ConvertKit](https://convertkit.com) - Email marketing
 - [Mailerlite](https://www.mailerlite.com) - Various digital marketing tools (automations, marketing & websites)
