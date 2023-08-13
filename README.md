@@ -89,6 +89,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Klavyio](https://www.klaviyo.com) - Marketing automation
 - [ConvertKit](https://convertkit.com) - Email marketing
 - [Mailerlite](https://www.mailerlite.com) - Various digital marketing tools (automations, marketing & websites)
+- [Parcel](https://parcel.io/) - Email Coding Platform
 
 ## CRM and Support
 - ★ [Odoo](https://odoo.com) - Open-source ERP
