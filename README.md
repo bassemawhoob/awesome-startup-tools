@@ -39,6 +39,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 ## Content and SEO
 - ★ [Netlify CMS](https://www.netlifycms.org) - Open-source content management for your Git workflow
 - [Metatags](https://metatags.io) - Metatags previewer
+- [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/) - Free no-signup generators (cold emails, invoices, SOWs, checklists).
 - [Copy](https://www.copy.ai) - AI copywriting
 - [Ahrefs](https://ahrefs.com) - Analyze a website's link profile, keyword rankings, and SEO health
 - [Jasper](https://jasper.ai) - AI copywriting
