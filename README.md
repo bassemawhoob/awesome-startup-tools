@@ -84,6 +84,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Mailjet](https://www.mailjet.com/)- Alternative to MailChimp
 - [Buttondown](https://buttondown.email) - Minimalist newsletter
 - [Hashnode](https://hashnode.dev) - Engineering blogging
+- [JustBlogged](https://justblogged.com) - No-setup blogging platform, start writing in 2 minutes
 - [Substack](https://substack.com) - Advanced subscription newsletters with payment, analytics, and design infrastructure
 - [Revue](https://www.getrevue.co) - Similar to Substack
 - [Klavyio](https://www.klaviyo.com) - Marketing automation
