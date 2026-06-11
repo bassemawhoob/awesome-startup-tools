@@ -59,6 +59,11 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Firebase](https://firebase.google.com) - Backend as a service
 - [Supabase](https://supabase.com) - Open-source Firebase alternative
 
+## Legal & Formation
+- [LLC Class](https://llcclass.com/wyoming) - Wyoming LLC registration for non-US founders. Includes registered agent, EIN, and operating agreement — ready for Stripe and Mercury onboarding. ★
+- [Stripe Atlas](https://stripe.com/atlas) - Register a Delaware C-Corp with Stripe + Mercury included. $500 one-time.
+- [Clerky](https://clerky.com) - Legal documents for US startups (incorporation, SAFEs, NDAs).
+
 ## Payments
 - [Stripe](https://stripe.com) - Global payment provider
 - [Square](https://squareup.com) - Worldwide payment provider
