@@ -115,6 +115,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Ideals](https://www.idealsvdr.com) - Virtual data room
 - [Airbyte](https://airbyte.com) - Open-source ETL
 - [June](https://www.june.so/) - B2B Analytics with focus on companies
+- [Digital Product Seller Ledger Sample](https://ronnie2025.github.io/xianyu-virtual-product-ledger-sample/) - Free Excel/CSV sample for tracking digital product orders, fees, costs, refunds, and margins.
 
 ## Data Visualization
 - ★ [Metabase](https://metabase.com)
