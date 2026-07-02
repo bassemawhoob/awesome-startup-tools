@@ -107,6 +107,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Cube](https://cube.dev) - Headless BI for building data apps
 - [Mixpanel](https://mixpanel.com) - Product analytics
 - [Google Analytics](https://analytics.google.com) - Web analytics
+- [GetAppNiche](https://getappniche.com) - iOS app market intelligence for revenue estimates, ASO keywords, reviews, and competitors
 - [Heap](https://heap.io) - User behavior
 - [ChartMogul](https://chartmogul.com) - SaaS subscription analytics platform
 - [Smartlook](https://www.smartlook.com) - Behavior analytics
