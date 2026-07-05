@@ -47,6 +47,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Strapi](https://strapi.com) - Open-source headless CMS
 - [Prismic](https://prismic.io/) - Open-source headless CMS
 - [Contentful](https://www.contentful.com/) - Orchestrate content across brands
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted Laravel CMS with React 19 + shadcn/ui admin, REST API v1, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. ([GitHub](https://github.com/hpakdaman/unfoldcms))
 
 ## Automation
 - [Zapier](https://zapier.com) - Integrate web applications and automate workflows
