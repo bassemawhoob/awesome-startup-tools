@@ -41,6 +41,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Metatags](https://metatags.io) - Metatags previewer
 - [Copy](https://www.copy.ai) - AI copywriting
 - [Ahrefs](https://ahrefs.com) - Analyze a website's link profile, keyword rankings, and SEO health
+- [AnswerLens](https://app.sfdj.net/) - B2B SaaS public-evidence audit for crawlable pages, metadata, pricing, comparison pages, proof, and llms.txt; free scan reports visible gaps before a paid fix plan
 - [Jasper](https://jasper.ai) - AI copywriting
 - [Spyfu](https://www.spyfu.com) - Google keyword analyzer
 - [Formspree](https://formspree.io) - Contact forms
