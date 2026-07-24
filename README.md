@@ -115,7 +115,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Ideals](https://www.idealsvdr.com) - Virtual data room
 - [Airbyte](https://airbyte.com) - Open-source ETL
 - [June](https://www.june.so/) - B2B Analytics with focus on companies
-- [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
+- [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 100K events/month.
 
 ## Data Visualization
 - ★ [Metabase](https://metabase.com)
