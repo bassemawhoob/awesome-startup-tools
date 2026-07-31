@@ -37,6 +37,8 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Rows](https://rows.com) - AI-powered sheets alternative
 
 ## Content and SEO
+
+- [FreePNGConvert](https://freepngconvert.com) - Browser-side WebP to PNG converter. No upload, fast, private.
 - ★ [Netlify CMS](https://www.netlifycms.org) - Open-source content management for your Git workflow
 - [Metatags](https://metatags.io) - Metatags previewer
 - [Copy](https://www.copy.ai) - AI copywriting
