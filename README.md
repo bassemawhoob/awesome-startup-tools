@@ -98,6 +98,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Intercom](https://intercom.com) - Knowledge base, help center & support
 - [Crisp](https://crisp.chat) - Live chat & support
 - [Groove](https://www.groovehq.com) - Helpdesk
+- [Workforce Wave](https://www.workforcewave.com) - AI voice receptionist that answers business calls 24/7, books appointments, and captures leads
 
 ## Data Collection and Analytics 
 - ★ [Segment](https://segment.io) - Events & data collection
