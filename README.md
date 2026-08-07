@@ -47,6 +47,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Strapi](https://strapi.com) - Open-source headless CMS
 - [Prismic](https://prismic.io/) - Open-source headless CMS
 - [Contentful](https://www.contentful.com/) - Orchestrate content across brands
+- [Autoposting](https://autoposting.ai) - AI social media manager: writes posts in your voice, clips long video, schedules to five networks
 
 ## Automation
 - [Zapier](https://zapier.com) - Integrate web applications and automate workflows
