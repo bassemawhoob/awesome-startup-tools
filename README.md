@@ -34,6 +34,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [GoDaddy](https://godaddy.com) - Domains purchasing & management
 
 ## AI
+- [IdeaHunter](https://ideahunter.today) - AI startup idea research and validation for founders
 - ★ [Rows](https://rows.com) - AI-powered sheets alternative
 
 ## Content and SEO
