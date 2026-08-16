@@ -165,6 +165,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Rive](https://rive.app) - Animation design tool
 - [Blush](https://blush.design) - Easily create and customize illustrations 
 - [Lumen5](https://lumen5.com) - AI text to video
+- [videos.social](https://videos.social/?utm_source=bassemawhoob-awesome-startup-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 - [Talevideo](https://talevideo.com) - Animated mockup maker
 - [Captions](https://www.captions.ai) - For automated text video captions (for reels & shorts)
 - [Tubebuddy](https://www.tubebuddy.com) - YouTube video optimization
