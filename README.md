@@ -65,6 +65,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Bolt](https://bolt.com) - One click checkout
 - [Paymob](https://paymob.com) - Egyptian payment provider
 - [Paytabs](https://site.paytabs.com) - Egyptian payment provider
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser-based invoice/receipt PDF generator for founders and freelancers. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-startup-tools-v1) white-label PDFs, 6 templates, CSV batch CLI, no account.
   
 ## Documentation
 - ★ [Docusaurus](https://docusaurus.io/) - Open-source documentation websites
