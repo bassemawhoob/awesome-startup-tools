@@ -196,6 +196,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Idevaffiliate](https://www.idevdirect.com) 
 - [Impact](https://www.impact.com) 
 - [Partnerstack](https://partnerstack.com)
+- [Power CM Partners](https://partners.powercm-software.com/) - Software partner network for tracked campaigns and commissions on attributed verified sales
 - [Friendbuy](https://www.friendbuy.com) - Referral & loyalty programs
 
 ## Logging and Monitoring
