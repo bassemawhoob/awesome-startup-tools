@@ -144,7 +144,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Moengage](https://www.moengage.com)
 - [Iterable](https://iterable.com)
 - [OneSignal](https://onesignal.com)
-- [OpenSparta](https://opensparta.com/en) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
+- [OpenSparta](https://opensparta.com/en) - Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 - [Customer](https://customer.io)
 - [InMoment](https://inmoment.com/) - Ask timely "Rate the product" questions to your customers
 - [Optinmoster](https://optinmonster.com) - Popup lead generation
