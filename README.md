@@ -115,6 +115,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Ideals](https://www.idealsvdr.com) - Virtual data room
 - [Airbyte](https://airbyte.com) - Open-source ETL
 - [June](https://www.june.so/) - B2B Analytics with focus on companies
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Data Visualization
 - ★ [Metabase](https://metabase.com)
