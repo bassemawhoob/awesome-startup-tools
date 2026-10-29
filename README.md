@@ -191,6 +191,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Super](https://super.so) - Websites using Notion
 - [Bubble](https://bubble.io) - No-code web app builder
 - [Bravo Studio](https://www.bravostudio.app) - No-code mobile app builder
+- [AppWizzy](https://appwizzy.com/) - AI web app builder with runtime templates and dedicated development VMs
 
 ## Affiliates and Referrals
 - [Idevaffiliate](https://www.idevdirect.com) 
