@@ -206,6 +206,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - [Datadog](https://datadog.com) - Cloud monitoring
 
 ## Misc.
+- [EarlyLore](https://earlylore.com) - Research workspace for founders: study real SaaS products, revenue signals, and competitor changes before you build
 - ★ [Wisestamp](https://www.wisestamp.com) - Generate & manage professional email signatures
 - ★ [Uploadcare](https://uploadcare.com) - File uploading, processing & delivery 
 - ★ [Brightback](https://brightback.com) - Customer retention automation software for SaaS and subscription businesses. Stop SaaS churn and retain customers
