@@ -35,6 +35,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 
 ## AI
 - ★ [Rows](https://rows.com) - AI-powered sheets alternative
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research platform that stress-tests ideas before you commit
 
 ## Content and SEO
 - ★ [Netlify CMS](https://www.netlifycms.org) - Open-source content management for your Git workflow
