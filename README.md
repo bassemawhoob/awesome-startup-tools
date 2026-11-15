@@ -211,6 +211,7 @@ This is a curated & **opinionated** collection of 3rd party tools for startups. 
 - ★ [Brightback](https://brightback.com) - Customer retention automation software for SaaS and subscription businesses. Stop SaaS churn and retain customers
 - [Navattic](https://www.navattic.com/) - Interactive product demos
 - [ProductHunt](https://producthunt.com) - Share your new product with the world
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory covering small stages across all 50 US states and who books them
 - [Teachable](https://teachable.com) - For managing online courses
 - [Linktree](https://linktree.com) - Social media reference landing page
 - [Znaplink](https://www.znaplink.com) - Linktree alternative
